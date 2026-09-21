@@ -1,3 +1,4 @@
 print("Hello GitHub!")
 print("This line was added locally.") 
 print("DevOp Lab.")
+print("This line was added in local repository.")
